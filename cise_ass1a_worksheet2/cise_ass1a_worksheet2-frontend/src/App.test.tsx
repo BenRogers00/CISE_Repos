@@ -1,6 +1,6 @@
 import React from 'react';
     import ReactDOM from 'react-dom';
-    import App from './cise_ass1a_worksheet2-frontend/src/App';
+    import App from './App';
 
     it('renders without crashing', () => {
       const div = document.createElement('div');
