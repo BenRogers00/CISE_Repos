@@ -29,7 +29,7 @@ jobs:
 
       - name: Run the tests
         run: npm test
-        working-directory: ./cise_ass1a_worksheet2/cise_ass1a_worksheet2/src
+        working-directory: ./cise_ass1a_worksheet2/cise_ass1a_worksheet2-frontend/
 
       - name: Build
         run: npm run build
